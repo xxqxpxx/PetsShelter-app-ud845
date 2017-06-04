@@ -1,8 +1,7 @@
 Pets App
 ===================================
 
-This app displays a list of pets and their related data that the user inputs.
-Used in a Udacity course in the Android Basics Nanodegree by Google.
+app to be used for the local shelters for pets . exercise app for udacity android data storage course (ud845) 
 
 Pre-requisites
 --------------
@@ -10,21 +9,6 @@ Pre-requisites
 - Android SDK v24
 - Android Build Tools v23.0.3
 - Android Support Repository v24.1.1
-
-Getting Started
----------------
-
-This sample uses the Gradle build system. To build this project, use the
-"gradlew build" command or use "Import Project" in Android Studio.
-
-Support
--------
-
-- Google+ Community: https://plus.google.com/communities/105153134372062985968
-- Stack Overflow: http://stackoverflow.com/questions/tagged/android
-
-Patches are encouraged, and may be submitted by forking this project and
-submitting a pull request through GitHub. Please see CONTRIBUTING.md for more details.
 
 License
 -------
@@ -45,4 +29,4 @@ distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
 WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
 License for the specific language governing permissions and limitations under
 the License.
-# PetsShelter-app-ud845
+
